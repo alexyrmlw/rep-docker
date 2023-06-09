@@ -5,6 +5,7 @@
         <h1>GCP Cloud Build Prod test image</h1>
           <h2>Exam test!</h2>
             <h2>It works!</h2>
+             <h2>It is great!</h2>
         
  <?php
         $ip_server = $_SERVER['SERVER_ADDR'];
