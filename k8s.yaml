@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app-1
-        image: "alex45879/httpd_php:latest"
+        image: "alex45879/httpd_php"
         resources:
          requests:
           memory: "128Mi"
