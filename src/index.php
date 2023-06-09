@@ -3,9 +3,8 @@
     </head>
       <body>
         <h1>GCP Cloud Build Prod test image</h1>
-          <h2>Test!</h2>
-            <h2>Test2!</h2>
-            <h2>Test3!</h2>
+          <h2>Exam test!</h2>
+        
  <?php
         $ip_server = $_SERVER['SERVER_ADDR'];
   
